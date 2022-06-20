@@ -8,7 +8,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 # Metadata
-<https://admin-shell.io/aas/3/0/RC01/> a owl:Ontology ;
+owl:Ontology ;
     owl:imports <http://datashapes.org/dash> ;
     owl:imports sh: ;
     sh:declare [
